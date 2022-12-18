@@ -1,0 +1,5 @@
+ok -peso maior que 100g para ser cadastrada;
+
+ok -lista tem capacidade máxima de 10, caso ultrapassado o limite, notificar erro;
+
+ok -o item deve ter um nome maior de 3 caracteres,senão mostrar erro;
